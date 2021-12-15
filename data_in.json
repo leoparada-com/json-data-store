@@ -1,0 +1,8 @@
+{
+    "equipo"             : ["Equipo A", "Equipo B", "Equipo Profes", "Equipo C", "Equipo D", "Equipo D"],
+    "puntos"             : [30, 25, 27, 17, 19, 23],
+    "goles_a_favor"      : [65, 45, 60, 30, 25, 45],
+    "goles_en_contra"    : [10,15,20,60,30,20],
+    "tarjetas_amarillas" : [7,2,4,4,9,4],
+    "tarjetas_rojas"     : [3,2,2,4,5,1]
+}
